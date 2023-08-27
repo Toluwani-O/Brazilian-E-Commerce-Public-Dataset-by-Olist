@@ -32,7 +32,7 @@ Additionally, there are filters that allow users to view data specifically betwe
 
 Below find an image of the dashboard: 
 
-![image](https://github.com/Toluwani-O/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/140829887/0e81fae4-701d-41a8-bf22-4e402a569087)
+[Dashboard](https://app.powerbi.com/links/LVcswKhxWi?ctid=b8eda659-1b02-4864-a4e1-3aa49825e99a&pbi_source=linkShare)
 
 # Insight
 - Revenue has exhibited a consistent upward trajectory since 2016, showing a steady increase in sales
